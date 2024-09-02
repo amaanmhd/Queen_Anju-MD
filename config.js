@@ -23,7 +23,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "yR1W2Q7K#mxcfhaJ6wFTQWMpQJZbS8iX0qhTiak_RlqZSfc0R-Rw",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, QUEEN ANJU IS ALIVE...\n\nOWNER: MOH AMAAN\n\nTHANKS FOR USING QUEEN ANJU MD\n\n> *© Qᴜᴇᴇɴ ᴀɴᴊᴜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* github.com/Mrrashmika/Queen_Anju-MD",
+ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, ammu editz IS ALIVE...\n\nOWNER: MOH AMAAN\n\nTHANKS FOR USING amaan \n\n> *© Amaan  ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* github.com/Mrrashmika/Queen_Anju-MD",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 BOT_NUMBER: process.env.BOT_NUMBER || "94774833828",
